@@ -17,3 +17,14 @@
 - Ensure sufficient stock for top-selling products to meet demand.
 - Develop targeted marketing campaigns for top-performing countries.
 - Investigate outliers to understand their nature and impact on the business.
+
+## Acknowledgments
+
+
+Special thanks to [Piyushhacker (Piyush Mujmule)](https://github.com/HacktiveMindset) .
+
+## Contact
+
+For inquiries or feedback, please contact
+
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/piyush.mujmule)
